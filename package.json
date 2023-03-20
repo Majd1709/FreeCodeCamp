@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Mohamed Majd Ben Yahia"
+	"author": "Mohamed Majd Ben Yahia",
+	"http.proxySupport": "off"
 }
